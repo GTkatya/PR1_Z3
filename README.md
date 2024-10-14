@@ -10,6 +10,7 @@
 Вывод в консоль в VS Code:
 Установлен компилятор minGW, запускала через создание нового терминала. 
 g++ PR1_Z3.cpp -o PR1_Z3 
+
 ./PR1_Z3
 
 ![image](https://github.com/user-attachments/assets/c335f9b7-5050-4734-802c-ab5f715ca0ed)
